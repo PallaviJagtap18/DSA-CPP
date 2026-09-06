@@ -19,38 +19,38 @@ Here, the above steps form an algorithm for adding two numbers.
 
 A good algorithm has the following characteristics:
 
-- 1. Input
+1. Input
     An algorithm should accept zero or more inputs.
 
     Example: Two numbers A and B.
 
-- 2. Output
+2. Output
 
     An algorithm should produce at least one output.
     
     Example: The sum of two numbers.
 
-- 3. Definiteness
+3. Definiteness
 
     Every step of the algorithm should be clear and unambiguous.
 
     The user should understand exactly what needs to be done.
 
-- 4. Finiteness
+4. Finiteness
 
     An algorithm must finish after a finite number of steps.
 
     It should not continue forever.
 
-- 5. Effectiveness
+5. Effectiveness
 
     Every step should be simple, practical, and executable within a reasonable amount of time.
 
-- 6. Correctness
+6. Correctness
 
     The algorithm should produce the correct result for valid inputs.
 
-- 7. Efficiency
+7. Efficiency
 
     An algorithm should use less time and memory as much as possible.
 
